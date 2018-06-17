@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/172707__axtoncrolley__nodens-field-song.ogg-81ed9f4b4c54d3ee28cf1f4d9e6b3317.oggstr"
+
+[deps]
+
+source_file="res://assets/172707__axtoncrolley__nodens-field-song.ogg"
+dest_files=[ "res://.import/172707__axtoncrolley__nodens-field-song.ogg-81ed9f4b4c54d3ee28cf1f4d9e6b3317.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
